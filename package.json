@@ -1,0 +1,15 @@
+{
+  "name": "tp2-scm-node",
+  "version": "1.0.0",
+  "description": "Projet TP2 SCM avec Node.js et Jenkins",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Pas encore de tests définis\" && exit 0"
+  },
+  "author": "Etudiant TP2",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
